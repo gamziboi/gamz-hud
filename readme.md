@@ -1,4 +1,4 @@
-#gamz-hud
+>gamz-hud
 
 A vehicle hud script i made a couple of months ago for a server but it got leaked.
 
